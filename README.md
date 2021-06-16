@@ -2,8 +2,8 @@
 Dev C# Backend e React Frontend
 
 ## Certificacoes
-[x] MS 70-483 - Programming in C#
-[x] Scrum.org - PSM I
+- [x] MS 70-483 - Programming in C#
+- [x] Scrum.org - PSM I
 
 ### Languages and Tools:
 <p align="left" > 
