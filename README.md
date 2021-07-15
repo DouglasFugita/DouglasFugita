@@ -22,6 +22,7 @@ Dev C# Backend e React Frontend
 
 ### Atualmente... 
 :mortar_board: estudando arquitetura no Docker Definitivo (https://dockerdefinitivo.com/)
+:mortar_board: estudando Azure Devops em Azure na Pratica (https://azurenapratica.com/azure-devops/)
 
 
 <h3 align="left">Para me encontrar:</h3>
