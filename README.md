@@ -1,6 +1,11 @@
 # Douglas Fugita
 Dev C# Backend e React Frontend
 
+### Atualmente... 
+:mortar_board: estudando arquitetura no Docker Definitivo (https://dockerdefinitivo.com/)
+
+:mortar_board: estudando Azure Devops em Azure na Pratica (https://azurenapratica.com/azure-devops/)
+
 ## Certificacoes
 - [x] MS 70-483 - Programming in C#
 - [x] Scrum.org - PSM I
@@ -19,12 +24,6 @@ Dev C# Backend e React Frontend
 * Gerenciamento de Projetos
 * Mapeamento de processos
 * Totvs Protheus - administrativo e materiais (especialmente fiscal e contábil)
-
-### Atualmente... 
-:mortar_board: estudando arquitetura no Docker Definitivo (https://dockerdefinitivo.com/)
-
-:mortar_board: estudando Azure Devops em Azure na Pratica (https://azurenapratica.com/azure-devops/)
-
 
 <h3 align="left">Para me encontrar:</h3>
 <p align="left">
