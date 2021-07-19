@@ -1,5 +1,5 @@
 # Douglas Fugita
-Dev C# Backend e React Frontend
+Dev Backend C#
 
 ### Atualmente... 
 :mortar_board: estudando arquitetura no Docker Definitivo (https://dockerdefinitivo.com/)
