@@ -7,6 +7,8 @@ Dev Backend C#
 :mortar_board: estudando Azure Devops em Azure na Pratica (https://azurenapratica.com/azure-devops/)
 
 ## Certificacoes
+- [x] AZ-900 - Azure Fundamentals
+- [x] AZ-204 - Developing Solutions for Microsoft Azure
 - [x] MS 70-483 - Programming in C#
 - [x] Scrum.org - PSM I
 
@@ -43,15 +45,3 @@ Dev Backend C#
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DouglasFugita&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="usuario" />
 </p>
 
-
-<!---
-- 👋 Hi, I’m @DouglasFugita
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-DouglasFugita/DouglasFugita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
